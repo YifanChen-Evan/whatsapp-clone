@@ -1,3 +1,5 @@
+// 从 ShadCN 安装 Input 组件，自动生成该文件
+
 import * as React from "react"
 
 import { cn } from "@/lib/utils"

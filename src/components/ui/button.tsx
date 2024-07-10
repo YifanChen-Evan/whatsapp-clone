@@ -1,3 +1,5 @@
+// 从 ShadCN 安装 Button 组件，自动生成该文件
+
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"

@@ -1,3 +1,5 @@
+// 从 ShadCN 安装 Avatar 组件，自动生成该文件
+
 "use client"
 
 import * as React from "react"
